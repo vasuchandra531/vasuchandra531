@@ -179,8 +179,10 @@ CGPA: **7.40**
 
 * LinkedIn: [Vasu Chandrahaas Domathoti](https://www.linkedin.com/in/dvasuchandra31/?utm_source=chatgpt.com)
 * GitHub: [vasuchandra531](https://github.com/vasuchandra531?utm_source=chatgpt.com)
-* Profile views:![](https://komarev.com/ghpvc/?username=vasuchandra531)
-* GitHub Stats![GitHub Stats](https://ghstats.dev/api/card?username=vasuchandra531)
+* Profile views
+* ![](https://komarev.com/ghpvc/?username=vasuchandra531)
+* GitHub Stats
+* ![GitHub Stats](https://ghstats.dev/api/card?username=vasuchandra531)
 
 ---
 
