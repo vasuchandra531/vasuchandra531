@@ -11,7 +11,7 @@ I’m passionate about learning new technologies, building practical projects, a
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Technical followup
 
 * Artificial Intelligence Engineer at **Agent Ops Labs**
 * B.Tech in **Computer Engineering**
@@ -58,50 +58,27 @@ I’m passionate about learning new technologies, building practical projects, a
 
 ### Programming
 
-* Python
-* Core Java
-* Advanced Java
+* Python  * Core Java  * Advanced Java
 
 ### Artificial Intelligence & Data
 
-* Artificial Intelligence
-* Machine Learning Fundamentals
-* Data Science with Python
-* Pandas
-* NumPy
-* Scikit-learn
-* Computer Vision
+* Artificial Intelligence  * Machine Learning Fundamentals  * Data Science with Python  * Pandas  * NumPy  * Scikit-learn  * Computer Vision
 
 ### Web Development
 
-* HTML
-* CSS
-* JSP
-* Servlets
-* Flask
+* HTML  * CSS  * JSP  * Servlets  * Flask
 
 ### Database
 
-* SQL
-* MySQL
-* JDBC
+* SQL  * MySQL  * JDBC
 
 ### Tools & Technologies
 
-* Git
-* GitHub
-* VS Code
-* PyCharm
+* Git  * GitHub  * VS Code  * PyCharm
 
 ### Currently Learning
 
-* Advanced Python
-* Pandas & Data Analysis
-* Git & GitHub
-* AWS
-* Cloud Computing
-* Automation
-* AI/ML
+* Advanced Python  * Pandas & Data Analysis  * Git & GitHub  * AWS  * Cloud Computing  * Automation  * AI/ML
 
 ---
 
@@ -127,34 +104,6 @@ A Python-based facial recognition application using **Computer Vision and Machin
 
 `Python` `Flask` `OpenCV` `Face Recognition` `NumPy` `Pandas` `Scikit-learn` `Machine Learning`
 
----
-
-## 📚 Learning Journey
-
-I’m currently documenting my Python learning journey through GitHub commits and LinkedIn posts.
-
-### Python Learning Roadmap
-
-* [x] Python Environment Setup
-* [x] Python Fundamentals
-* [x] Variables & Memory
-* [x] PEP 8 & Clean Code
-* [x] Built-in Data Types
-* [x] Mutability & Memory
-* [ ] Control Flow
-* [ ] Functions
-* [ ] Object-Oriented Programming
-* [ ] File Handling
-* [ ] Exception Handling
-* [ ] Modules & Packages
-* [ ] Advanced Python
-* [ ] Pandas
-* [ ] Data Analysis
-* [ ] Automation
-* [ ] AI/ML Projects
-* [ ] AWS & Cloud Computing
-
----
 
 ## 🎓 Education
 
